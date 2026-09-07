@@ -1,0 +1,13 @@
+{
+  "name": "maloly221",
+  "version": "1.0.0",
+  "description": "math calc ",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
