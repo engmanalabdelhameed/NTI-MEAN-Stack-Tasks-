@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+    background: radial-gradient(circle at 20% 30%, #0a0c14, #03050b);
+    color: #eef2ff;
+    line-height: 1.5;
+    scroll-behavior: smooth;
+}
+
+.footer-note {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.85rem;
+    border-top: 1px solid rgba(59, 130, 246, 0.2);
+    margin-top: 2rem;
+    color: #6c7fa0;
+}
